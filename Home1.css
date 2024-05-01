@@ -1,0 +1,177 @@
+#head{
+    font-size: 40px;
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 40px;
+    font-style: italic;
+    text-shadow: 1px 1px 2px chocolate;
+}
+.na{
+    color: red;
+}
+.choose{
+    text-align: center;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+#fr{
+    color: rgb(241, 168, 11);
+    font-size: 32px;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif; 
+    text-align: center;
+    margin-left: 30px;
+}
+#sf{
+    color: blue;
+}
+.jo{
+    filter: drop-shadow(9px 9px 6px #531801);
+}
+#ru{
+    color: rgb(241, 168, 11);
+}
+.mar{
+        color: brown;
+    }    
+#tr{
+    color: rgb(243, 218, 106);
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50px;
+    margin-top: 100px;
+    font-size: 25px;
+}  
+.can{
+    padding-left: 50px;
+    padding-right: 10px;
+} 
+#res{
+    padding: 100px;
+    background-color: #531801;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+.ta{
+    text-align: center;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif; 
+    margin-top: 10px;
+}
+.abc{
+    background-image: url(fr5.jpg);
+    background-size: cover;
+
+}
+.card{
+    margin-top: 40px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 10px;
+    border-radius: 80%;
+}
+.def{
+    background-image: linear-gradient(to right,white,bisque,rgb(189, 133, 64));
+}
+.card-link{
+    color: white;
+    border: 1px solid;
+    padding: 5px;
+    text-decoration: none;
+    background-color: rgb(85, 139, 209);
+}
+#cer{
+    margin-top: 80px;
+    margin-right: 50px;
+    margin-left: 220px; 
+} 
+#f5{
+    border-radius: 10%;
+    box-shadow: 15px 15px 15px rgb(90, 34, 2);
+}
+.f5{
+    color: brown;
+    padding-top: 28px;
+    margin-left: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.f7{
+    color: brown;
+    padding-top: 30px;
+    margin-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.f6{
+    color: brown;
+    padding-top: 30px;
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+} 
+.navbar-nav{
+    border: 1px solid #8f2f03;
+    border-radius: 2%;
+    background: linear-gradient(to right,white,bisque,pink);
+  }
+#navi{
+    color: #8f2f03;
+    letter-spacing: 2px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 30px;
+}
+#nav{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: white;
+}
+#tre{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50px;
+    margin-top: 100px;
+    font-size: 25px;
+} 
+#vid{
+    margin-top: 60px;
+    box-shadow: 15px 15px 15px rgb(116, 112, 112);
+}
+#but{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#ex{
+    color: peru;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 3px yellowgreen;
+}
+#f6{
+    border-radius: 10%;
+    box-shadow: 15px 15px 15px rgb(116, 112, 112);
+}
+#get{
+    color: brown;
+}
+.fic{
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+}
+footer{
+    background-color: #2E1A13;
+    padding-top: 10px;
+   
+}
+.card{
+    transition: all 0.3s;
+}
+.card:hover {
+    transform: scale(1.10);
+}
+    
+
